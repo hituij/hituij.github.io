@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hituij.csgad.com/XKj/sitemap.xml.gz
